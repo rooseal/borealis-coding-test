@@ -1,6 +1,6 @@
 # react-coding-test
 
-As a chemistry company we absolutely love Breaking Bad! But there are so many characters, we can't keep track anymore so you will help us by developing a simple web application that lets us search and sort all the breaking bad characters. 
+As a chemistry company we absolutely love Breaking Bad! But there are so many characters, we can't keep track anymore so you will help us by developing a simple web application that lets us search and sort all the breaking bad characters.
 
 [Here you can see how the app should look and what it should do](https://www.youtube.com/watch?v=O4-sGOxdaso&feature=youtu.be&ab_channel=BorealisDigitalStudio)
 
@@ -18,4 +18,4 @@ As a chemistry company we absolutely love Breaking Bad! But there are so many ch
 
 - Just push your changes, Github Classroom will automatically setup a pull request
 - Deploy your Breaking Bad app to [Netlify](https://www.netlify.com/)
-- Paste your Netlify url here: <YOUR NETLIFY URL>
+- Paste your Netlify url here: https://vibrant-mahavira-5524f9.netlify.app
